@@ -31,7 +31,7 @@ export function Header() {
       {/* Top Bar */}
       <div className="bg-primary text-primary-foreground py-2 hidden sm:block">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex justify-between items-center text-sm">
-          <span>WELCOME TO KING COMPUTER AND CCTV SOLUTIONS</span>
+          <span>WELCOME TO KING COMPUTER AND CCTV SOLUTIONS </span>
           <a href="tel:8554088088" className="flex items-center gap-2 hover:opacity-80 transition-opacity">
             <Phone className="w-4 h-4" />
             <span className="font-semibold">8554088088</span>
