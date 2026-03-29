@@ -6,7 +6,7 @@ import { ChevronLeft, ChevronRight } from "lucide-react"
 
 const slides = [
   {
-    image: "/images/slider-1.jpg",
+    image: "/images/1.jpg",
     alt: "King Computer & CCTV Solutions - Desktop, Laptop, CCTV, Inverter, Printers, Accessories",
   },
   {
@@ -14,11 +14,11 @@ const slides = [
     alt: "Special Power Offer - Livfast 160Ah Battery and FCS975 Inverter with 3 Years Warranty",
   },
   {
-    image: "/images/slider-3.png",
+    image: "/images/3.png",
     alt: "Assembled Micro Tower Desktop - Starting from Rs. 10000 with 1-2 Year Warranty",
   },
   {
-    image: "/images/slider-4.png",
+    image: "/images/4.jpg",
     alt: "Refurbished HP and Dell Laptops - i5 6th/7th/8th Gen with 256/512GB SSD",
   },
 ]
