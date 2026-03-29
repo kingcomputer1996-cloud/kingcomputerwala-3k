@@ -20,10 +20,6 @@ export const metadata: Metadata = {
         url: '/logo.png',
         media: '(prefers-color-scheme: dark)',
       },
-      {
-        url: '/icon.svg',
-        type: 'image/svg+xml',
-      },
     ],
     apple: '/logo.png',
   },
